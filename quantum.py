@@ -1,13 +1,7 @@
-print("hello future me, welcome to python ull make it here")
-print("this is a log book for my quantum computing journey"
-      " where I will document my progress and learnings")
-print("Day 1: Set up virtual environment and created first python file")
-print("Day 2: Learned about qubits and superposition")
-print("Day 3: Experimented with basic quantum gates using Qiskit")
-print("Day 4: Built and simulated a simple quantum circuit")
-print("Day 5: Studied quantum entanglement and its applications")
-print("Day 6: Implemented Grover's search algorithm")
-print("Day 7: Explored Shor's algorithm for factoring integers")
-print("Day 8: Learned about quantum error correction techniques")
-print("Day 9: Experimented with quantum teleportation protocol")
-print("Day 10: Reflected on my journey and planned next steps in quantum computing")
+print("hello , world")
+
+if 5>2:
+    print("five is greter than two")
+    if 5>2:
+        print("five is greatrer than two")
+
