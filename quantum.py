@@ -12,4 +12,7 @@ print("hello world!")
 print("one day ill be the senier software engeriner")
 print("learning python gonna be fun trust me !")
 #using semicolons optionally
-print("hello");print("who will se me in future");print("i promis you u gonna see hiw fall i come from")
+print("hello");print("who will se me in future");print("i promis you u gonna see how fall i come from")
+#python output /print
+print("hello world!", end=" ")
+print("welcome to python programming")
