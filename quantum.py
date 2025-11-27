@@ -39,3 +39,10 @@ x = 15
 y = "quantum"
 print(type(x)) 
 print(type(y))
+# real life example what i real so fall 
+name = "joshua"
+print(f"hello {name},your sales today are 50 items!")
+price = 100
+quantity = 5
+total = price+quantity
+print(total)
