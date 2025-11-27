@@ -1,7 +1,6 @@
-print("hello , world")
-
-if 5>2:
-    print("five is greter than two")
-    if 5>2:
-        print("five is greatrer than two")
-
+x = 5
+y = "hello infotronics!"
+print(x)
+print(y)
+#this is comment.
+print("this is my first python code but this is beggining of new era")
