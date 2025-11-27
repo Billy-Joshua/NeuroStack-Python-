@@ -25,3 +25,17 @@ print(234*567)
 print(234+234)
 #mixing text and number
 print("i love this field",100,"murindi","trust me.")
+# VARIABLES IN PYTHON
+#A variable is a named location used to store data in the memory.
+x = 10
+y ="infotronics"
+print(x)
+print(y)
+#changing the value of variable
+x = str(3)   
+y = int(3)   
+z = float(3) 
+x = 15
+y = "quantum"
+print(type(x)) 
+print(type(y))
