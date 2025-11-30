@@ -46,3 +46,16 @@ price = 100
 quantity = 5
 total = price+quantity
 print(total)
+#my first variable 
+myvar = "we believe in this"
+my_var = "and one day we will make it happen"
+_my_var = "never give up"
+myVar = "keep pushing"
+MYVAR = "success is near"
+myvar2 = "trust the process"
+print(myvar)
+print(my_var)
+print(_my_var)
+print(myVar)
+print(MYVAR)
+print(myvar2)
