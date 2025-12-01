@@ -81,6 +81,7 @@ print(MYVAR)
 print(myvar2)
 
 #python variable assign multiple values 
+#python multiple variable assign ,python unpacking
 programing_language_I_know = "python","javascript","programing rith c","sassa"
 print( programing_language_I_know)
 x,y,z,q = programing_language_I_know
@@ -88,6 +89,12 @@ print(x)
 print(y)
 print(z)
 print(q)
-#THIS IS THE WAY U CAN USE ONE VALIABLE TO MULT VARIAOBLE 
-# python variable unpacking
-    
+
+              #python output valiables
+x ="learning  is awesame in start look like its hard to reach ther but as long as keep bush till u see how fall u have come from "
+print (x)
+             #python assign buy + 
+x = "hello future me"
+y = "u know how im trying to make you live better "
+z = "trust the process "
+print (x + y + z)
