@@ -98,3 +98,32 @@ x = "hello future me"
 y = "u know how im trying to make you live better "
 z = "trust the process "
 print (x + y + z)
+
+                #python global variable
+
+x  = "awesome"
+
+def myfunc():
+    print("python is" , x)
+
+myfunc()
+# create a variable inside a function with the same name as a global variable
+
+x = "awesome"
+
+def myfunc():
+    x = "fantastic"
+    print("python is " + x)
+myfunc()
+
+print("python is " , x)
+
+                   # the global keyword
+
+def myfunc():
+    global x
+    x= "programing"
+    myfunc()
+print("i love " + x )
+
+# if you use the global keyword the variable belongs to the global scope
