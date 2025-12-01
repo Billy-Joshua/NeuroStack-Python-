@@ -80,4 +80,14 @@ print(myVar)
 print(MYVAR)
 print(myvar2)
 
-#
+#python variable assign multiple values 
+programing_language_I_know = "python","javascript","programing rith c","sassa"
+print( programing_language_I_know)
+x,y,z,q = programing_language_I_know
+print(x)
+print(y)
+print(z)
+print(q)
+#THIS IS THE WAY U CAN USE ONE VALIABLE TO MULT VARIAOBLE 
+# python variable unpacking
+    
