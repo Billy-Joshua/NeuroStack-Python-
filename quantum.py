@@ -126,4 +126,3 @@ def myfunc():
     myfunc()
 print("i love " + x )
 
-# if you use the global keyword the variable belongs to the global scope
