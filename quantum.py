@@ -120,7 +120,7 @@ print("python is " , x)
 
                  
                  #to create a global variable inside a 
-                 # #function use global keyword
+                 
 
 def myfunc():
     global x
