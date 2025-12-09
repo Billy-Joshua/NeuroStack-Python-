@@ -151,4 +151,11 @@ a = 1j              #complex
 b = ["apple","banana","cherry"]  #list
 c = ("apple","banana","cherry")  #tuple
 d = range(6)                     #range
-
+print(type(x))
+print(type(y))
+print(type(z))
+print(type(a))  
+print(type(b))
+print(type(c))
+print(type(d))
+    
