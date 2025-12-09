@@ -141,5 +141,14 @@ def sell(item_price):
 
 sell(1000)
 sell(500)
-print(total_sales)  # Output: 1500
+print(total_sales)  # Output: 1500 
+      
+         #python data types
+x = "hello world"   #string
+y = 20              #int        
+z = 20.5            #float
+a = 1j              #complex
+b = ["apple","banana","cherry"]  #list
+c = ("apple","banana","cherry")  #tuple
+d = range(6)                     #range
 
