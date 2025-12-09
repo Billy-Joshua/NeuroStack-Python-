@@ -129,3 +129,17 @@ def myfunc():
     myfunc()
 print("i love " + x )
 
+                                  
+#using global keyword to change a global variable inside a function
+
+
+total_sales = 0  # global
+
+def sell(item_price):
+    global total_sales
+    total_sales += item_price
+
+sell(1000)
+sell(500)
+print(total_sales)  # Output: 1500
+
