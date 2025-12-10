@@ -120,7 +120,7 @@ myfunc()
 print("python is " , x)
 
                  
-                 #to create a global variable inside a 
+                 # create a global variable inside 
                  
 
 def myfunc():
@@ -150,7 +150,7 @@ z = 20.5            #float
 a = 1j              #complex
 b = ["apple","banana","cherry"]  #list
 c = ("apple","banana","cherry")  #tuple
-d = range(6)                     #range
+d = range(6)                    
 print(type(x))
 print(type(y))
 print(type(z))
@@ -159,4 +159,5 @@ print(type(b))
 print(type(c))
 print(type(d))
 
-                    #python casting
+
+                    #done fur python valiable 
