@@ -159,3 +159,10 @@ print(type(b))
 print(type(c))
 print(type(d))
 
+#python challenge
+name= "joshua"
+age = 20
+greating = "hello"
+print(type(name))
+print(type(age))
+print(type(greating))    
