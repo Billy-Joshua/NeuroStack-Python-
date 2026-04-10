@@ -165,4 +165,8 @@ age = 20
 greating = "hello"
 print(type(name))
 print(type(age))
-print(type(greating))    
+print(type(greating))   
+ // python number Random number
+ import random
+
+print(random.randrange(1, 10))
