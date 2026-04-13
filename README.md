@@ -13,4 +13,4 @@ This repository contains Python scripts, exercises, and experimental AI projects
 - Version-controlled with Git and hosted on GitHub  
 
 ## Project Structure
-## git has issue due to pushing 
+ 
